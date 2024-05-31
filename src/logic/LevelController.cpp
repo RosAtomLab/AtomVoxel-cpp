@@ -1,3 +1,5 @@
+#include "algorithm"
+
 #include "LevelController.hpp"
 
 #include "../settings.hpp"

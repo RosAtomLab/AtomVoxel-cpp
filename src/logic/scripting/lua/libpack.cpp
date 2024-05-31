@@ -1,3 +1,4 @@
+#include "algorithm"
 #include "api_lua.hpp"
 #include "lua_commons.hpp"
 

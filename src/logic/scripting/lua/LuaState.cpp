@@ -1,5 +1,8 @@
-#include "LuaState.hpp"
+#include "algorithm"
 
+#include "LuaState.hpp"
+#include <lua.h>
+#include <lualib.h>
 #include "lua_util.hpp"
 #include "api_lua.hpp"
 #include "../../../debug/Logger.hpp"

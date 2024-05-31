@@ -1,3 +1,5 @@
+#include "algorithm"
+
 #include "TextBox.hpp"
 
 #include "Label.hpp"

@@ -1,3 +1,4 @@
+#include "algorithm"
 #include "EngineController.hpp"
 
 #include "../content/ContentLUT.hpp"
